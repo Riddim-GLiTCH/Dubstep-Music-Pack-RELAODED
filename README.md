@@ -11,11 +11,11 @@ Copyright notice: None of the assets included belong to me. All credit go the mu
 
 | **Cup**         | **Track**               | **Music**  |
 |-----------------|-------------------------|------------|
-| **Mushroom Cup** | Luigi Circuit           | —          |
+| **Mushroom Cup** | Luigi Circuit           |[Daeya - Prism Dance](https://www.youtube.com/watch?v=4iFi750w9ns)|
 |                 | Moo Moo Meadows         | —          |
 |                 | Mushroom Gorge          | —          |
 |                 | Toad's Factory          | —          |
-| **Flower Cup**   | Mario Circuit           | —          |
+| **Flower Cup**   | Mario Circuit           |[Daeya - Prism Dance](https://www.youtube.com/watch?v=4iFi750w9ns)|
 |                 | Coconut Mall            | —          |
 |                 | DK Summit               | —          |
 |                 | Wario's Gold Mine        | —          |
